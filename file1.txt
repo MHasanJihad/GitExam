@@ -1,1 +1,3 @@
 text is added to new file. added from branch2
+this line is added by branch 2
+one more line is here
